@@ -1,0 +1,24 @@
+{
+  "name": "pepatz001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pepatz001/Homework_4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pepatz001/Homework_4/issues"
+  },
+  "homepage": "https://github.com/pepatz001/Homework_4#readme",
+  "description": ""
+}
